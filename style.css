@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: violet;
+  }
+  
+  h2 {
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  p {
+    color: #777;
+  }
+  
+  ul {
+    list-style-type: disc;
+    color: #777;
+    margin-left: 20px;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
